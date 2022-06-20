@@ -1,2 +1,2 @@
-# Tdog Token
-Welcome to Tdog Token Platform  https://tdogtoken.github.io/tdog
+# PDOG Token
+Welcome to PolyTdog Platform  https://tdogtoken.github.io/pdog
