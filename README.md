@@ -1,4 +1,4 @@
-# PolyTdog
+# PolyTdog (PDOG)
 - 👋 PolyTdog (Symbol:PDOG) is a fully decentralized token on Polygon (Matic) Blockchain.
 - 👀 PDOG Token Total Supply: 3,000,000,000
 - 🌱 Visit us at https://tdogtoken.github.io/pdog
