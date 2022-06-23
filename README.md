@@ -16,6 +16,5 @@
 - 👋 We only add two liquidity pairs: PDOG-USDG and USDG-USDT on Polygon Uniswap Liquidity Pool
 - 🌱 PDOG-USDG Liquidity: https://polygonscan.com/address/0xe37f8d25bf517b9cf314712beffd4c22aa024f13#tokentxns
 - 💞️ USDG-USDT Liquisity: https://polygonscan.com/address/0xe1c8daeb35425604db347e60b0ec13640ffec913#tokentxns
-- 📫 View Contract Source Code: https://polygonscan.com/address/0x4b9f1466c900380aab79f156593f95492cf08d5a#code
-- 💞️ USDT Contract Address: 0xc2132d05d31c914a87c6611c10748aeb04b58e8f
+- 📫 USDT Contract Address: 0xc2132d05d31c914a87c6611c10748aeb04b58e8f
 - 🌱 View USDT Contract Source Code: https://polygonscan.com/address/0xc2132d05d31c914a87c6611c10748aeb04b58e8f#code
