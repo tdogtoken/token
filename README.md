@@ -9,5 +9,5 @@
 # StableCoin (USDG)
 - 👋 StableCoin (Symbol:USDG) is a fully decentralized token on Polygon (Matic) Blockchain.
 - 🌱 Buy Or Sell USDG: https://tdogtoken.github.io/polytdogswap
-- 💞️ Contract Address: 0xa3a5668d4fb8079ad9e98f9c09f3f92361e2b8a0
-- 📫 View Contract Source Code: https://polygonscan.com/address/0xa3a5668d4fb8079ad9e98f9c09f3f92361e2b8a0#code
+- 💞️ Contract Address: 0x4b9f1466c900380aab79f156593f95492cf08d5a
+- 📫 View Contract Source Code: https://polygonscan.com/address/0x4b9f1466c900380aab79f156593f95492cf08d5a#code
