@@ -3,8 +3,8 @@
 - 👀 PDOG Token Total Supply: 3,000,000,000
 - 🌱 Visit us at https://tdogtoken.github.io/pdog
 - 👋 Easy and Safe to Buy PDOG: https://tdogtoken.github.io/buypdog
-- 💞️ Contract Address: 0x665c8efe92aaff6d6876bc49d62370225e3e7ebe
-- 📫 View Contract Source Code: https://polygonscan.com/address/0x665c8efe92aaff6d6876bc49d62370225e3e7ebe#code
+- 💞️ Contract Address: 0x5ce8fb50d1fcb9e0e8e3738d638335856f532223
+- 📫 View Contract Source Code: https://polygonscan.com/address/0x5ce8fb50d1fcb9e0e8e3738d638335856f532223#code
 
 # StableCoin (USDG)
 - 👋 StableCoin (Symbol:USDG) is a fully decentralized token on Polygon (Matic) Blockchain.
