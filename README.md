@@ -3,6 +3,8 @@
 - 👀 PDOG Token Total Supply: 3,000,000,000
 - 🌱 Visit us at https://tdogtoken.github.io/pdog
 - 👋 Easy and Safe to Buy PDOG: https://tdogtoken.github.io/buypdog
+- 👀 Video Guide Buy PDOG inside MetaMask Wallet, Trust Wallet and SafePal Wallet: https://youtu.be/Nz2G2aslwV0
+- 👀 Video Guide Buy or Sell PDOG on PolyTdogSwap Platform: https://youtu.be/7As3lfgHdJ4
 - 💞️ Contract Address: 0x5ce8fb50d1fcb9e0e8e3738d638335856f532223
 - 📫 View Contract Source Code: https://polygonscan.com/address/0x5ce8fb50d1fcb9e0e8e3738d638335856f532223#code
 
