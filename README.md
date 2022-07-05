@@ -1,3 +1,13 @@
+# PolyBitcoin (PBTC)
+- 👋 PolyBitcoin (Symbol:PBTC) is a fully decentralized token on Polygon (Matic) Blockchain.
+- 👀 PDOG Token Total Supply: 2,000,000
+- 🌱 Fair distribution: 50% for free NFT stake, 50% add in PBTC/USDG liquidity pool
+- 👋 Visit us at https://tdogtoken.github.io/pdog
+- 💞️ Free Stake NFT to Get PBTC Rewards: https://pbtc.netlify.app
+- 👀 Buy or Sell PBTC/USDG on PolyTdogSwap Platform: https://tdogtoken.github.io/polytdogswap/#/swap?chain=polygon
+- 💞️ Contract Address: 0x5Bf09a52bF4589C305bF5353349EB277d83e4cF7
+- 📫 View Contract Source Code: https://polygonscan.com/address/0x5bf09a52bf4589c305bf5353349eb277d83e4cf7#code
+
 # PolyTdog (PDOG)
 - 👋 PolyTdog (Symbol:PDOG) is a fully decentralized token on Polygon (Matic) Blockchain.
 - 👀 PDOG Token Total Supply: 3,000,000,000
