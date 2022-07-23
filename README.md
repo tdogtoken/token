@@ -4,7 +4,7 @@ Don't try to break its system strategy, it won't work since it is fair distribut
 Its value will always be equal or greater than 1 USDG. You can try to dump it but I think you are going to waste your time by doing that, hahaha.
 
 - 👋 PolyBitcoin (Symbol:PBTC) is a fully decentralized token on Polygon (Matic) Blockchain.
-- 👀 PDOG Token Total Supply: 2,000,000
+- 👀 PBTC Token Total Supply: 2,000,000
 - 🌱 Fair distribution: 50% for free NFT stake, 50% add in PBTC/USDG liquidity pool
 - 👋 Visit us at https://tdogtoken.github.io/pdog
 - 💞️ Free Stake NFT to Get PBTC Rewards: https://pbtc.netlify.app
