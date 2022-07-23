@@ -17,6 +17,7 @@ Its value will always be equal or greater than 1 USDB. You can try to dump it bu
 
 # StableCoin (USDB)
 - 👋 StableCoin (Symbol:USDB) is a fully decentralized token on Polygon (Matic) Blockchain.
+- 👀 Video Guide to Claim Free 40 USDB Every 24 Hours:https://youtu.be/CkF3kswrctQ
 - 🌱 Buy Or Sell USDB Server1: https://tdogtoken.github.io/polytdogswap/#/swap?chain=polygon
 - 🌱 Buy or Sell USDB Server2: https://polytdogswap.netlify.app/#/swap?chain=polygon
 - 💞️ Contract Address: 0xc9A7C6e406c25c77d74bfd07787DB4108cB023bF
