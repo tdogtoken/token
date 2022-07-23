@@ -10,9 +10,17 @@ Its value will always be equal or greater than 1 USDG. You can try to dump it bu
 - 💞️ Free Stake NFT to Get PBTC Rewards: https://pbtc.netlify.app
 - 👀 Video Guide to Claim Free NFT and Stake it for PBTC Rewards: https://youtu.be/hCyb5LJ2TbI
 - 👀 Video Guide to Claim PBTC Rewards after stake NFT: https://youtu.be/2QzrWyIBJ-I
-- 👀 Buy or Sell PBTC/USDG on PolyTdogSwap Platform: https://tdogtoken.github.io/polytdogswap/#/swap?chain=polygon
+- 🌱 Buy or Sell PBTC/USDB on PolyTdogSwap Platform Server1: https://tdogtoken.github.io/polytdogswap/#/swap?chain=polygon
+- 🌱 Buy or Sell PBTC/USDB on PolyTdogSwap Platform Server2: https://polytdogswap.netlify.app/#/swap?chain=polygon
 - 💞️ Contract Address: 0x5Bf09a52bF4589C305bF5353349EB277d83e4cF7
 - 📫 View Contract Source Code: https://polygonscan.com/address/0x5bf09a52bf4589c305bf5353349eb277d83e4cf7#code
+
+# StableCoin (USDB)
+- 👋 StableCoin (Symbol:USDB) is a fully decentralized token on Polygon (Matic) Blockchain.
+- 🌱 Buy Or Sell USDB Server1: https://tdogtoken.github.io/polytdogswap/#/swap?chain=polygon
+- 🌱 Buy or Sell USDB Server2: https://polytdogswap.netlify.app/#/swap?chain=polygon
+- 💞️ Contract Address: 0xc9A7C6e406c25c77d74bfd07787DB4108cB023bF
+- 📫 View Contract Source Code: https://polygonscan.com/address/0xc9a7c6e406c25c77d74bfd07787db4108cb023bf#code
 
 # PolyTdog (PDOG)
 - 👋 PolyTdog (Symbol:PDOG) is a fully decentralized token on Polygon (Matic) Blockchain.
